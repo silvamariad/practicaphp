@@ -1,2 +1,2 @@
-# practica de html
+# practicas de html
 
